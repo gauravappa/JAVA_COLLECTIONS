@@ -1,0 +1,22 @@
+ArrayList is a resizable arrays
+which implements List interface.
+
+Example : Consider you have array of size 10
+			int a[]=new int[10];
+			
+			you can store 10 elements in arrays from index 0 to 9
+			a[0]=1;
+			a[1]=2;
+			.
+			.
+			.
+			a[9]=10
+			
+			but if we want to add another element which is 11th element
+			then we cannot because if we do it will throw array index out of bound exception
+			
+			a[10]=1; this line will throw out of bound exception
+			
+			therefore we needed data structure that can change its size depending on requirement
+			therefore dynamic arrays comes into picture so called arraylist.
+			

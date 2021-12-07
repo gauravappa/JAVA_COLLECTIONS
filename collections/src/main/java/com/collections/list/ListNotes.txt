@@ -1,0 +1,8 @@
+List - List interface use to store data in ordered fashion
+	   It provides index based add,remove,update,search operations
+
+Package = java.util.List;
+
+Implementations = ArrayList,LinkedList,Stack,Vector
+
+	   
